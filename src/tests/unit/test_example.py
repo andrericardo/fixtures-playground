@@ -1,2 +1,2 @@
-def test_false(my_fixture):
-    assert not my_fixture
+def test_true(my_fixture):
+    assert my_fixture
